@@ -27,3 +27,7 @@
  
  
 </div>
+<div>
+  
+  Acompanhe meus projetos durante a faculdade [aqui](https://github.com/amandaribeiro1)
+</div>
